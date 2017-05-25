@@ -5,13 +5,13 @@
 <h3>Selenium for Python：</h3>
 
 ```
-sudo pip install -U selenium
+pip install -U selenium
 ```
 
 Python 3：
 
 ```
-sudo pip3 install -U selenium
+pip3 install -U selenium
 ```
 
 <h3>GoogleChrome Webdriver:</h3>
